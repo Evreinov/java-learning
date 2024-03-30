@@ -20,9 +20,7 @@ public class StaticTest {
 		}
 		
 		int n = Employee2.getNextId(); // вызвать статический метод
-		System.out.println("Next available id=" + n);
 	}
-
 }
 
 class Employee2{
